@@ -41,3 +41,12 @@
   padding: 10px;
   text-align: left;
 }
+
+.right {
+  padding: 10px;
+  float: bottom;
+  text-align: left;
+  float: right;
+  padding-top: 40px;
+  padding-right: 70px;
+}
